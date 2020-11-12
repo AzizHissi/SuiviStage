@@ -1,0 +1,16 @@
+C:\Users\azizh\documents\visual studio 2015\Projects\GrstionDesStagiaires_V1\GrstionDesStagiaires_V1\bin\Debug\GrstionDesStagiaires_V1.exe.config
+C:\Users\azizh\documents\visual studio 2015\Projects\GrstionDesStagiaires_V1\GrstionDesStagiaires_V1\obj\Debug\GrstionDesStagiaires_V1.exe
+C:\Users\azizh\documents\visual studio 2015\Projects\GrstionDesStagiaires_V1\GrstionDesStagiaires_V1\obj\Debug\GrstionDesStagiaires_V1.pdb
+C:\Users\azizh\documents\visual studio 2015\Projects\GrstionDesStagiaires_V1\GrstionDesStagiaires_V1\bin\Debug\GrstionDesStagiaires_V1.exe
+C:\Users\azizh\documents\visual studio 2015\Projects\GrstionDesStagiaires_V1\GrstionDesStagiaires_V1\bin\Debug\GrstionDesStagiaires_V1.pdb
+C:\Users\azizh\documents\visual studio 2015\Projects\GrstionDesStagiaires_V1\GrstionDesStagiaires_V1\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\azizh\documents\visual studio 2015\Projects\GrstionDesStagiaires_V1\GrstionDesStagiaires_V1\bin\Debug\MaterialSkin.dll
+C:\Users\azizh\documents\visual studio 2015\Projects\GrstionDesStagiaires_V1\GrstionDesStagiaires_V1\obj\Debug\GrstionDesStagiaires_V1.csprojResolveAssemblyReference.cache
+C:\Users\azizh\documents\visual studio 2015\Projects\GrstionDesStagiaires_V1\GrstionDesStagiaires_V1\obj\Debug\GrstionDesStagiaires_V1.Analyse.resources
+C:\Users\azizh\documents\visual studio 2015\Projects\GrstionDesStagiaires_V1\GrstionDesStagiaires_V1\obj\Debug\GrstionDesStagiaires_V1.Departement.resources
+C:\Users\azizh\documents\visual studio 2015\Projects\GrstionDesStagiaires_V1\GrstionDesStagiaires_V1\obj\Debug\GrstionDesStagiaires_V1.Employee.resources
+C:\Users\azizh\documents\visual studio 2015\Projects\GrstionDesStagiaires_V1\GrstionDesStagiaires_V1\obj\Debug\GrstionDesStagiaires_V1.Form1.resources
+C:\Users\azizh\documents\visual studio 2015\Projects\GrstionDesStagiaires_V1\GrstionDesStagiaires_V1\obj\Debug\GrstionDesStagiaires_V1.Participation.resources
+C:\Users\azizh\documents\visual studio 2015\Projects\GrstionDesStagiaires_V1\GrstionDesStagiaires_V1\obj\Debug\GrstionDesStagiaires_V1.Properties.Resources.resources
+C:\Users\azizh\documents\visual studio 2015\Projects\GrstionDesStagiaires_V1\GrstionDesStagiaires_V1\obj\Debug\GrstionDesStagiaires_V1.Stage.resources
+C:\Users\azizh\documents\visual studio 2015\Projects\GrstionDesStagiaires_V1\GrstionDesStagiaires_V1\obj\Debug\GrstionDesStagiaires_V1.csproj.GenerateResource.Cache
